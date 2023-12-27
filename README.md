@@ -2,7 +2,7 @@
 - 😶‍🌫️ সৌরভ দাস
 - 🎓 NITS'25, CE 
 - 📧 soouravdas15@gmail.com
-- 📍 Silchar, Assam.
+- 📍 Silchar, Cachar, Assam.
 
 <!---
 soouravdas01/soouravdas01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
