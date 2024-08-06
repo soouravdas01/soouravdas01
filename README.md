@@ -10,31 +10,30 @@ I'm a 4th year undergraduate civil engineering student at NIT Silchar who's into
 ### Skills
 
 - **Languages & Frameworks**:  
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-  [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)  
-  [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-  [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-  [![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)](https://nodejs.org/)  
-  [![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)](https://expressjs.com/)  
-  [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)  
-  [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org/)  
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com/)  
-  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://www.mysql.com/)  
-  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)  
-  [![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)](https://numpy.org/)  
-  [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)](https://pandas.pydata.org/)  
-  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)](https://matplotlib.org/)  
-  [![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)](https://seaborn.pydata.org/)  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" height="30"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" height="30"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5" height="30"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" height="30"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" height="30"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" height="30"></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" height="30"></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" height="30"></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" height="30"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" height="30"></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow" height="30"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy" height="30"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas" height="30"></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge&logo=matplotlib" height="30"></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/-Seaborn-black?style=for-the-badge&logo=seaborn" height="30"></a>
 
 - **Tools & Platforms**:  
-  [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)  
-  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)  
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)  
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" height="30"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" height="30"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code" height="30"></a>
 
 ### Socials
 
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:soouravdas15@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/soouravdas15/)
-- [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100066839941691&mibextid=ZbWKwL)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/soouravdas01?igsh=cm15amM0bHg0dGxs)
-
+- <a href="mailto:soouravdas15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
+- <a href="https://www.linkedin.com/in/soouravdas15/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30"></a>
+- <a href="https://www.facebook.com/profile.php?id=100066839941691&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"></a>
+- <a href="https://www.instagram.com/soouravdas01?igsh=cm15amM0bHg0dGxs"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"></a>
