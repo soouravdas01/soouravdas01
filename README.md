@@ -71,5 +71,6 @@
 
 <!-- Footer -->
 <p align="center">
-  💼 Seeking Internship Opportunities in Software Engineering • 💻 Passionate about Civil Engineering & Tech Fusion • 🌐 Learn more at <a href="[https://your-portfolio-link.com](https://sourav-das-portfolio-g1.vercel.app/index.html)" target="_blank">My Portfolio</a>
+  💼 Seeking Internship Opportunities in Software Engineering • 💻 Passionate about Civil Engineering & Tech Fusion • 🌐 Learn more at <a href="https://sourav-das-portfolio-g1.vercel.app/index.html" target="_blank">My Portfolio</a>
 </p>
+
