@@ -39,6 +39,12 @@
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas" height="30" alt="Pandas"></a>
   <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge&logo=matplotlib" height="30" alt="Matplotlib"></a>
   <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/-Seaborn-black?style=for-the-badge&logo=seaborn" height="30" alt="Seaborn"></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi"><img src="https://img.shields.io/badge/-Power%20BI-black?style=for-the-badge&logo=powerbi" height="30" alt="Power BI"></a>
+  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/-Tableau-black?style=for-the-badge&logo=tableau" height="30" alt="Tableau"></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch" height="30" alt="PyTorch"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit%20Learn-black?style=for-the-badge&logo=scikit-learn" height="30" alt="Scikit Learn"></a>
+  <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c" height="30" alt="C"></a>
+  <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus" height="30" alt="C++"></a>
 </p>
 
 <p align="center">
@@ -46,6 +52,11 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" height="30" alt="Git"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" height="30" alt="GitHub"></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code" height="30" alt="VS Code"></a>
+  <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/-Sublime%20Text-black?style=for-the-badge&logo=sublime-text" height="30" alt="Sublime Text"></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm" height="30" alt="PyCharm"></a>
+  <a href="https://gitforwindows.org/"><img src="https://img.shields.io/badge/-Git%20Bash-black?style=for-the-badge&logo=gitbash" height="30" alt="Git Bash"></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter%20Notebook-black?style=for-the-badge&logo=jupyter" height="30" alt="Jupyter Notebook"></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019"><img src="https://img.shields.io/badge/-MS%20Office-black?style=for-the-badge&logo=microsoft-office" height="30" alt="MS Office"></a>
 </p>
 
 <!-- Social Links -->
@@ -54,6 +65,11 @@
 <p align="center">
   <a href="mailto:soouravdas15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/soouravdas15/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/profile.php?id=100066839941691&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" alt="Facebook"></a>
-  <a href="https://www.instagram.com/soouravdas01?igsh=cm15amM0bHg0dGxs"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram"></a>
+  <a href="https://github.com/soouravdas01"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" height="30" alt="GitHub"></a>
+  <a href="https://leetcode.com/soouravdas15/"><img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" height="30" alt="LeetCode"></a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  💼 Seeking Internship Opportunities in Software Engineering • 💻 Passionate about Civil Engineering & Tech Fusion • 🌐 Learn more at <a href="https://your-portfolio-link.com" target="_blank">My Portfolio</a>
 </p>
