@@ -9,7 +9,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  I'm a 4th-year Civil Engineering student at NIT Silchar with a passion for both real-world structures and virtual tech. By day, I work with concrete and equations; by night, I craft dynamic web applications and dive deep into data science. I enjoy turning ideas into digital realities, coding innovative websites, and using data to make smarter decisions. When not in class, you can find me at hackathons, exploring tech trends, and envisioning a world where civil engineering meets cutting-edge web development and intelligent data insights.
+  I’m a 4th-year Civil Engineering student at NIT Silchar passionate about blending real-world structures with virtual tech. By day, I engage in civil engineering projects; by night, I craft dynamic web applications and delve into data science. I turn ideas into digital realities, design engaging graphics, and use data to drive smarter decisions. Outside academics, I pursue photography and explore the latest tech trends, aiming to bridge civil engineering with innovative web development and data analysis.
 </p>
 
 <!-- Current Work -->
