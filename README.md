@@ -24,8 +24,9 @@
 
 <p align="center">
   <!-- Languages & Frameworks -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" height="30" alt="JavaScript"></a>
+  <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus" height="30" alt="C++"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" height="30" alt="Python"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" height="30" alt="JavaScript"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5" height="30" alt="HTML5"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" height="30" alt="CSS3"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" height="30" alt="MySQL"></a>
@@ -35,7 +36,6 @@
   <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/-Seaborn-black?style=for-the-badge&logo=seaborn" height="30" alt="Seaborn"></a>
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit%20Learn-black?style=for-the-badge&logo=scikit-learn" height="30" alt="Scikit Learn"></a>
   <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c" height="30" alt="C"></a>
-  <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus" height="30" alt="C++"></a>
 </p>
 
 <p align="center">
